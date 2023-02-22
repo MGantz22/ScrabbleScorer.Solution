@@ -1,5 +1,6 @@
 using System;
 using ScrabbleScorer.Models;
+using System.Collections.Generic;
 
 namespace ScrabbleScorer
 {
