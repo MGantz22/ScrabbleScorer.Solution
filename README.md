@@ -34,3 +34,5 @@ _A console application that takes a word and returns the Scrabble score for that
 _MIT_
 
 Copyright (c) 2023 _By Mitchell Gantz, Eliot Gronstal, John Lenz, Hyung Jin Kim_
+
+

@@ -15,6 +15,10 @@ namespace ScrabbleScorer.Tests
     Assert.AreEqual(typeof(Scorer), newScorer.GetType());
   }
 
+  [TestMethod]
+  {
+
+  }
 
   }
 }
