@@ -9,8 +9,7 @@
 
 * _C#_
 * _.NET_
-* _you used in your project_
-* _here_
+* _MSTest_
 
 ## Description
 
@@ -30,7 +29,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 * _Any known issues_
 
-* _If you have any questions or concerns please reach out to Mitchell Gantz <mgantz22@icloud.com>, John <john.lenz27@gmail.com>, 
+* _If you have any questions or concerns please reach out to Mitchell Gantz<mgantz22@icloud.com>, John<john.lenz27@gmail.com>, Hyung Jin Kim<hyungjinkim1205@gmail.com>, or Eliot<eliot.lauren@gmail.com>
 
 ## License
 
